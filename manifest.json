@@ -1,4 +1,15 @@
 {
   "content_version": 1,
-  "weapons": []
+  "skins": [
+    {
+      "id": "skin_example_001",
+      "name": "Example Skin",
+      "weapon_id": "weapon_example",
+      "version": 1,
+      "status": "active",
+      "download": "REPLACE_WITH_DIRECT_PCK_URL",
+      "sha256": "REPLACE_WITH_64_CHARACTER_SHA256",
+      "size_bytes": 0
+    }
+  ]
 }
