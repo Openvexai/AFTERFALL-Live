@@ -1,0 +1,11 @@
+{
+  "wheel_version": 1,
+  "rewards": [
+    {
+      "item_id": "skin_example_001",
+      "enabled": false,
+      "weight": 1
+    }
+  ],
+  "note": "This file controls wheel eligibility only. Never use it as the ownership database."
+}
